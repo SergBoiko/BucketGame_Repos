@@ -1,0 +1,6 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\bin\Debug\BucketGame_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\bin\Debug\BucketGame_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\obj\Debug\BucketGame_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\obj\Debug\BucketGame_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\obj\Debug\BucketGame_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\BucketGame\BucketGame_ConsoleApp\BucketGame_ClassLibrary\obj\Debug\BucketGame_ClassLibrary.pdb
